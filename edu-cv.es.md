@@ -18,21 +18,23 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 
 
 ## Experiencia
-** Responsable de desarrollo web** en *[Dinahosting S.L.][4]*. `sep 2009 - Actualidad`
+**Responsable de desarrollo web** en *[Dinahosting S.L.][4]*. `sep 2009 - Actualidad`
 > Después de haber pasado por diferentes puestos ligados con el desarrollo web en la empresa ahora me encuentro gestionando un equipo de entre 6 y 11 desarrolladores definiendo y construyendo el producto y herramientas internas de la empresa principalmente en PHP.
+
 > Además el equipo mantiene y refactoriza código y procesos legacy en un entorno de integración/desarrollo continuo con una media de 5 publicaciones diarias a producción en el proyecto principal.
 
-** Senior developer (PHP & JavaScript)** en *[Dinahosting S.L.][4]*. `feb 2009 - sep 2009`
+**Senior developer (PHP & JavaScript)** en *[Dinahosting S.L.][4]*. `feb 2009 - sep 2009`
 > En este periodo me he dedicado a desarrollos en PHP, creando tanto librerias propias como extendiendo Zend Framework y con MySql como gestor de bbdd. También he realizando labores de frontend con Javascript y JQuery, en concreto el motor JS del panel de control que simulaba un escritorio publicado en octubre de ese año.
 
-** Fullstack web Developer** como *freelance*. `ene 2005 - sep 2009`
+**Fullstack web Developer** como *freelance*. `ene 2005 - sep 2009`
 > He trabajado como desarrollador freelance utilizando PHP principalmente. En este periodo desarrollé un MVC y un CMS propio para construir las webs de mis clientes. En esta etapa también realicé labores de maquetador HTMl/CSS. Gestioné alrededor de 10 proyectos directamente con clientes finales de diferentes y variados perfiles, desde la Universidade de Santiago de Compostela a empresas del sector del ocio o autónomos con intereses varios.
 
-** Junior Web Developer** en *[Dinahosting S.L.][4]*. `may 2008 - feb 2009`
+**Junior Web Developer** en *[Dinahosting S.L.][4]*. `may 2008 - feb 2009`
 > He trabajado como desarrollador integrando nuevas funcionalidades javascript en proyectos legacy además de desarrollar nuevas librerias en PHP e integrarlas con un MVC desplegado propio de la empresa.
 
-** Dotnet Developer y PHP Developer**  en *CIRCULO GACELA SL*. `oct 2006 - jun 2008`
+**Dotnet Developer y PHP Developer**  en *CIRCULO GACELA SL*. `oct 2006 - jun 2008`
 > En una primera etapa de teletrabajo como programador web en PHP y JS realicé implentaciones usando un framework muy rudimentario desarrollado por la empresa y programando sitios web para clientes, además de realizar labores de administrador de sistemas básicas.
+
 > En una segunda fase me dediqué a diseñar y construir una aplicacion en C# que consumía datos de una API XML sobre PHP y MySQL para gestionar los servicios que ofrecía la empresa a sus clientes.
 
 ----
@@ -41,7 +43,9 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 ### Estudios
 **Grado en Ingeniería Informática**. `2011 - actualidad`
 > Itinerario de **Ingeniería del Software**
+
 > [Universitat Oberta de Catalunya][5].
+
 > *A falta de TFG y Proyecto de ingeniería de Software. Finalización prevista para junio de 2017*.
 
 **CISCO Networking Academy Program: CCNA, Wireless &Network Security**. `2006 - 2008`
@@ -53,21 +57,27 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 ### Cursos y certificaciones
 ** Certified ScrumMaster®** por la *[Scrum Alliance][9]*. `sep 2015`
 > Curso de certificación impartido por Xabier Quesada de **[Agilar][8]**
+
 > Licencia 000455894
 
-** M101P MongoDB for Developers ** `nov 2014`
+**M101P MongoDB for Developers ** `nov 2014`
 > [MongoDB, Inc][7].
+
 > Licencia 0c196073f2784dd2ba2a9f259fa68df3
 
-** Visual Basic .NET ** `ene 2008 - mar 2008`
+**Visual Basic .NET ** `ene 2008 - mar 2008`
 > 60h -  Plan Avanza (MITYC) - PcCarrier.
+
 > Formación Online.
 
 
 ## Idiomas
 > **Español**   - Competencia bilingüe o nativa.
+
 > **Gallego**  - Competencia bilingüe o nativa.
+
 > **Inglés**    - Competencia profesional media.
+
 > **Portugués** - Competencia profesional media.
 
 ----
@@ -94,12 +104,12 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 
 **Sistema de aprovisionamiento de servicios** de *Dinahosting*. `ene 2009 - actualidad`
 > El sistema de aprovisionamiento de productos y servicios permite a Dinahosting manejar la demanda y el ciclo de vida de los productos. Se encuentra integrado y gestiona diversas APIs, desde internas como la API del Servicio de Nombres de Dominios, Hosting o VPS a servicios externos como goMobi o CloudFlare. Podemos decir que el sistema funciona tanto por eventos como mediante suscripciones dependiendo del tipo de servicio.
+
 > El proyecto está envuelto en un desarrollo y mejora continua con el objetivo de añadir nuevos productos y servicios y ser más mantenible y eficiente. El sistema está implementado en un 90% usando PHP y MySQL como SGBD, hace uso también de RabbitMQ y otros sistemas de intercambio de mensajes más básicos.
 
 
 **Panel de contol, web y tienda *2009*** de *Dinahosting*. `ene 2009 - actualidad`
 > En septiembre de 2009 Dinahosting lanzó una nueva versión de su panel de control, web pública y tienda dentro de un proceso de reescritura de gran parte de sus sistemas.
-
 
 > El proyecto estaba formado por 3 componentes:
 - Web pública y tienda: la nueva imagen pública y la nueva tienda fue construida usando Zend Frameword en el backend y JS puro y jQuery en el frontend. Este componente fue reemplazado en Julio de 2011 por una nueva versión con pequeños cambios sobre la versión inicial.
@@ -142,6 +152,8 @@ Consta de cuatro componentes destacados:
 - Una apliación .NET que proporcionaba una interfaz de usuario y un sistema de notificaciones y de gestión de solicitudes.
 
 > La aplicación permitía abrir nuevas solicitudes de servicio y gestionarlas, adjuntar documentación y descargar documentos y formularios.
+
+-------
 
 [1]: http://edusalguero.com
 [2]: https://linkedin.com/in/edusalguero
