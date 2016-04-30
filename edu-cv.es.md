@@ -41,7 +41,7 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 
 ## Educación
 ### Estudios
-**Grado en Ingeniería Informática**. `2011 - actualidad`
+**Grado en Ingeniería Informática**. `2013 - actualidad`
 > Itinerario de **Ingeniería del Software**
 
 > [Universitat Oberta de Catalunya][5].
