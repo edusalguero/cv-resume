@@ -9,6 +9,8 @@
 
 > Teléfono: *+34.650074563*
 
+> [**Descargar en PDF**](edusalguero-es.pdf)
+
 ## Resumen
 **Ingeniero de software** con más de **10 años de experiencia**. En mi carrera he tenido contacto con varios lenguajes de programación como C#, Python o JAVA aunque me he centrado en **PHP** y JavaScript. Tengo gran experiencia en desarrollo web y arquitecturas complejas y me gusta crear software elegante y eficiente que sea capaz de ser leído facilmente y aporte valor a sus usuarios.
 
