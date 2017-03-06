@@ -21,8 +21,8 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 
 ## Experiencia
 
-** Cofundador / Senior Full Stack Developer** en *[hosting4devs][17]*. `jun 2016 - Actualidad`
-> En hosting4devs he participado en las decisiones de diseño e implementación del backend y frontend de la plataforma basada en microservicios. Además junto con mi socio hemos definido el producto y gestionado todo el ciclo de vida de construcción del software necesario para dar vida a al servicio.
+**Cofundador / Senior Full Stack Developer** en *[hosting4devs][17]*. `jun 2016 - Actualidad`
+> En hosting4devs he participado en las decisiones de diseño e implementación del backend y frontend de la plataforma basada en **microservicios**. Además junto con mi socio hemos definido el producto y gestionado todo el ciclo de vida de construcción del software necesario para dar vida a al servicio.
 
 > Stack principal empleado en la plataforma:
 - PHP (versiones 5 y 7)
@@ -40,11 +40,11 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 - Sass y Less
 - Docker
 
-** Senior web developer** en *[A Navalla suiza S.L.][16]*. `jun 2016 - feb 2016`
+**Senior web developer** en *[A Navalla suiza S.L.][16]*. `jun 2016 - feb 2016`
 > Desarrollador fullstack en proyectos internos y para clientes en un entorno de despliegue e integración continua con Jenkins, Git y GitHub.
 Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y frontend con ES6, webpack, gulp, grunt y nodejs.
 
-** Team leader** en *[Dinahosting S.L.][4]*. `sep 2009 - jun 2016`
+**Team leader** en *[Dinahosting S.L.][4]*. `sep 2009 - jun 2016`
 > Después de haber pasado por diferentes puestos ligados con el desarrollo web en la empresa pasé a gestionar un equipo de entre 6 y 11 desarrolladores  reportando directamente a la dirección. En equipo definimos y construimo el producto y herramientas internas de la empresa principalmente en PHP.
 > Además el equipo mantiene y refactoriza código y procesos legacy en un entorno de integración/desarrollo continuo con una media de 5 publicaciones diarias a producción en el proyecto principal.
 
@@ -80,7 +80,7 @@ Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y front
 > [Universidade de A Coruna][6].
 
 ### Cursos y certificaciones
-** Certified ScrumMaster®** por la *[Scrum Alliance][9]*. `sep 2015`
+**Certified ScrumMaster®** por la *[Scrum Alliance][9]*. `sep 2015`
 > Curso de certificación impartido por Xabier Quesada de **[Agilar][8]**
 
 > Licencia 000455894

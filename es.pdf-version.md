@@ -16,8 +16,8 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 
 ## Experiencia
 
-** Cofundador / Senior Full Stack Developer** en *[hosting4devs][17]*. `jun 2016 - Actualidad`
-> En hosting4devs he participado en las decisiones de diseño e implementación del backend y frontend de la plataforma basada en microservicios. Además junto con mi socio hemos definido el producto y gestionado todo el ciclo de vida de construcción del software necesario para dar vida a al mismo.
+**Cofundador / Senior Full Stack Developer** en *[hosting4devs][17]*. `jun 2016 - Actualidad`
+> En hosting4devs he participado en las decisiones de diseño e implementación del backend y frontend de la plataforma basada en **microservicios**. Además junto con mi socio hemos definido el producto y gestionado todo el ciclo de vida de construcción del software necesario para dar vida a al mismo.
 
 > Stack principal empleado en la plataforma:
 - PHP (versiones 5 y 7)
@@ -35,24 +35,24 @@ Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas ta
 - Sass y Less
 - Docker
 
-** Senior web developer** en *[A Navalla suiza S.L.][16]*. `jun 2016 - feb 2016`
+**Senior web developer** en *[A Navalla suiza S.L.][16]*. `jun 2016 - feb 2016`
 > Desarrollador fullstack en proyectos internos y para clientes en un entorno de despliegue e integración continua con Jenkins, Git y GitHub.
 Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y frontend con ES6, webpack, gulp, grunt y nodejs.
 
-** Team leader** en *[Dinahosting S.L.][4]*. `sep 2009 - jun 2016`
+**Team leader** en *[Dinahosting S.L.][4]*. `sep 2009 - jun 2016`
 > Después de haber pasado por diferentes puestos ligados con el desarrollo web en la empresa pasé a gestionar un equipo de entre 6 y 11 desarrolladores  reportando directamente a la dirección. En equipo definimos y construimo el producto y herramientas internas de la empresa principalmente en PHP.
 > Además el equipo mantiene y refactoriza código y procesos legacy en un entorno de integración/desarrollo continuo con una media de 5 publicaciones diarias a producción en el proyecto principal.
 
-** Senior developer (PHP & JavaScript)** en *[Dinahosting S.L.][4]*. `feb 2009 - sep 2009`
+**Senior developer (PHP & JavaScript)** en *[Dinahosting S.L.][4]*. `feb 2009 - sep 2009`
 > En este periodo me he dedicado a desarrollos en PHP, creando tanto librerias propias como extendiendo Zend Framework y con MySql como gestor de bbdd. También he realizando labores de frontend con Javascript y JQuery, en concreto el motor JS del panel de control que simulaba un escritorio publicado en octubre de ese año.
 
-** Fullstack web Developer** como *freelance*. `ene 2005 - sep 2009`
+**Fullstack web Developer** como *freelance*. `ene 2005 - sep 2009`
 > He trabajado como desarrollador freelance utilizando PHP principalmente. En este periodo desarrollé un MVC y un CMS propio para construir las webs de mis clientes. En esta etapa también realicé labores de maquetador HTMl/CSS. Gestioné alrededor de 10 proyectos directamente con clientes finales de diferentes y variados perfiles, desde la Universidade de Santiago de Compostela a empresas del sector del ocio o autónomos con intereses varios.
 
-** Junior Web Developer** en *[Dinahosting S.L.][4]*. `may 2008 - feb 2009`
+**Junior Web Developer** en *[Dinahosting S.L.][4]*. `may 2008 - feb 2009`
 > He trabajado como desarrollador integrando nuevas funcionalidades javascript en proyectos legacy además de desarrollar nuevas librerias en PHP e integrarlas con un MVC desplegado propio de la empresa.
 
-** Dotnet Developer y PHP Developer**  en *CIRCULO GACELA SL*. `oct 2006 - jun 2008`
+**Dotnet Developer y PHP Developer**  en *CIRCULO GACELA SL*. `oct 2006 - jun 2008`
 > En una primera etapa de teletrabajo como programador web en PHP y JS realicé implentaciones usando un framework muy rudimentario desarrollado por la empresa y programando sitios web para clientes, además de realizar labores de administrador de sistemas básicas.
 > En una segunda fase me dediqué a diseñar y construir una aplicacion en C# que consumía datos de una API XML sobre PHP y MySQL para gestionar los servicios que ofrecía la empresa a sus clientes.
 
@@ -72,15 +72,15 @@ Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y front
 > [Universidade de A Coruna][6].
 
 ### Cursos y certificaciones
-** Certified ScrumMaster®** por la *[Scrum Alliance][9]*. `sep 2015`
+**Certified ScrumMaster®** por la *[Scrum Alliance][9]*. `sep 2015`
 > Curso de certificación impartido por Xabier Quesada de **[Agilar][8]**
 > Licencia 000455894
 
-** M101P MongoDB for Developers ** `nov 2014`
+**M101P MongoDB for Developers ** `nov 2014`
 > [MongoDB, Inc][7].
 > Licencia 0c196073f2784dd2ba2a9f259fa68df3
 
-** Visual Basic .NET ** `ene 2008 - mar 2008`
+**Visual Basic .NET ** `ene 2008 - mar 2008`
 > 60h -  Plan Avanza (MITYC) - PcCarrier.
 > Formación Online.
 
@@ -147,7 +147,7 @@ Consta de cuatro componentes destacados:
 
 > Absolutamente toda la página web se construye dinámicamente y se gestiona mediante un CMS propio. El CMS denominado Quiloweb fue implementado en la construcción del proyecto y dio vida a otras 8 web de las cuales alguna aún se encuentra online.
 
-** Proyecto de investigación "Diccionario Galego de Pedagoxía"** de la [USC] [15]. `dic 2007`
+**Proyecto de investigación "Diccionario Galego de Pedagoxía"** de la [USC] [15]. `dic 2007`
 > El “Diccionario Galego de Pedagoxía” fue un proyecto promovido por la Secretaría Xeral de Política Lingüística de la Xunta de Galicia y gestionado por la Universidade de Santiago de Compostela desde el grupo de investigación Sepa de la Facultade de Ciencias da Educación.
 
 > El proyecto tenía tres componentes:
