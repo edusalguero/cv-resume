@@ -14,15 +14,38 @@
 ## Resumen
 **Ingeniero de software** con más de **10 años de experiencia**. En mi carrera he tenido contacto con varios lenguajes de programación como C#, Python o JAVA aunque me he centrado en **PHP** y JavaScript. Tengo gran experiencia en desarrollo web y arquitecturas complejas y me gusta crear software elegante y eficiente que sea capaz de ser leído facilmente y aporte valor a sus usuarios.
 
-He estado involucrado en varios proyectos exitosos, como programador, **gestor de proyectos** o **liderando equipos**, participando en el análisis, diseño y desarrollo. Cada vez tengo más interés en las **técnicas ágiles** y soy Scrum Master certificado. Además dedico gran parte de mi tiempo libre a una **formación continua** y a programar, siendo estas mis principales aficiones. Me apasiona el desarrollo de software en general y soy muy curioso. También me considero una persona responsable y un jugador de equipo, preparado para superar cualquier reto.
+He estado involucrado en varios proyectos exitosos, como programador, **gestor de proyectos** o **liderando equipos**, participando en el análisis, diseño y desarrollo. Creo en las **técnicas ágiles** y soy Scrum Master certificado. Además dedico gran parte de mi tiempo libre a una **formación continua** y a programar, siendo estas mis principales aficiones. Me apasiona el desarrollo de software en general y soy muy curioso. También me considero una persona responsable y un jugador de equipo, preparado para superar cualquier reto.
 
 Tengo un fondo GNU/Linux, aunque en casa uso MAC, y me gusta realizar ciertas tareas de administración de sistemas. Creo que conocer el stack en el que uno trabaja ofrece ventajas interesantes a la hora de aportar soluciones.
 
 
 ## Experiencia
-**Responsable de desarrollo web** en *[Dinahosting S.L.][4]*. `sep 2009 - Actualidad`
-> Después de haber pasado por diferentes puestos ligados con el desarrollo web en la empresa ahora me encuentro gestionando un equipo de entre 6 y 11 desarrolladores definiendo y construyendo el producto y herramientas internas de la empresa principalmente en PHP.
 
+** Cofundador / Senior Full Stack Developer** en *[hosting4devs][17]*. `jun 2016 - Actualidad`
+> En hosting4devs he participado en las decisiones de diseño e implementación del backend y frontend de la plataforma basada en microservicios. Además junto con mi socio hemos definido el producto y gestionado todo el ciclo de vida de construcción del software necesario para dar vida a al servicio.
+
+> Stack principal empleado en la plataforma:
+- PHP (versiones 5 y 7)
+- RabbitMQ
+- Memcached
+- MySQL
+- SQLite
+- Apache/NGINX
+- Ansible
+- Haproxy
+- Vagrant
+- Git
+- ES6 con Webpack
+- Gulp
+- Sass y Less
+- Docker
+
+** Senior web developer** en *[A Navalla suiza S.L.][16]*. `jun 2016 - feb 2016`
+> Desarrollador fullstack en proyectos internos y para clientes en un entorno de despliegue e integración continua con Jenkins, Git y GitHub.
+Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y frontend con ES6, webpack, gulp, grunt y nodejs.
+
+** Team leader** en *[Dinahosting S.L.][4]*. `sep 2009 - jun 2016`
+> Después de haber pasado por diferentes puestos ligados con el desarrollo web en la empresa pasé a gestionar un equipo de entre 6 y 11 desarrolladores  reportando directamente a la dirección. En equipo definimos y construimo el producto y herramientas internas de la empresa principalmente en PHP.
 > Además el equipo mantiene y refactoriza código y procesos legacy en un entorno de integración/desarrollo continuo con una media de 5 publicaciones diarias a producción en el proyecto principal.
 
 **Senior developer (PHP & JavaScript)** en *[Dinahosting S.L.][4]*. `feb 2009 - sep 2009`
@@ -172,3 +195,5 @@ Consta de cuatro componentes destacados:
 [13]: https://creowebs.com/
 [14]: http://ceesg.com/
 [15]: http://usc.es
+[16]: http://anavallasuiza.com
+[17]: https://hosting4devs.com
