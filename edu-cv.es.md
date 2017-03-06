@@ -71,7 +71,7 @@ Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y front
 
 > [Universitat Oberta de Catalunya][5].
 
-> *A falta de TFG y Proyecto de ingeniería de Software. Finalización prevista para junio de 2017*.
+> *A falta de TFG (Proyecto implementado en Java usando Spring y DDD). En curso*.
 
 **CISCO Networking Academy Program: CCNA, Wireless &Network Security**. `2006 - 2008`
 > [Universitat Oberta de Catalunya][5].
