@@ -85,12 +85,12 @@ Backend developer en PHP aplicando principios SOLID con Laravel 5, MySQL y front
 
 > Licencia 000455894
 
-**M101P MongoDB for Developers ** `nov 2014`
+**M101P MongoDB for Developers** `nov 2014`
 > [MongoDB, Inc][7].
 
 > Licencia 0c196073f2784dd2ba2a9f259fa68df3
 
-**Visual Basic .NET ** `ene 2008 - mar 2008`
+**Visual Basic .NET** `ene 2008 - mar 2008`
 > 60h -  Plan Avanza (MITYC) - PcCarrier.
 
 > Formación Online.
